@@ -1,0 +1,14 @@
+{
+  "prompt": {
+    "task": "Predict stock market prices",
+    "target": "[specific stock symbol]",
+    "timeframe": "[time period]",
+    "instructions": [
+      "Analyze the historical price data, trading volume, and relevant market indicators for [specific stock symbol].",
+      "Consider recent company news, industry trends, and broader economic factors.",
+      "Based on this information, provide a data-driven prediction for the stock's price movement over the next [time period].",
+      "Include potential support and resistance levels.",
+      "Highlight any significant events that could impact the stock's performance.",
+      "Identify risks or uncertainties that could affect the accuracy of this prediction."
+    ],
+    "output_format": "Detailed analysis with price prediction, support/resistance levels,
