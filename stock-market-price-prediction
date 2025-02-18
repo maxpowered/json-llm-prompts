@@ -11,4 +11,6 @@
       "Highlight any significant events that could impact the stock's performance.",
       "Identify risks or uncertainties that could affect the accuracy of this prediction."
     ],
-    "output_format": "Detailed analysis with price prediction, support/resistance levels,
+    "output_format": "Detailed analysis with price prediction, support/resistance levels, key events, and risk factors"
+  }
+}
